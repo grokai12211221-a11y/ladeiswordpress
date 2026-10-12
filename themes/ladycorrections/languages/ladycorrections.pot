@@ -1,0 +1,2635 @@
+# Copyright (C) 2026 Muse
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: LadyCorrections 2.1.0\n"
+"Report-Msgid-Bugs-To: https://lady.mbiinventra.com/\n"
+"POT-Creation-Date: 2026-10-12 15:00+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: manual\n"
+"X-Domain: ladycorrections\n"
+
+#: functions.php
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php
+msgid "Mobile Drawer Menu"
+msgstr ""
+
+#: functions.php
+msgid "Footer: Shop Links"
+msgstr ""
+
+#: functions.php
+msgid "Footer: Help Links"
+msgstr ""
+
+#: functions.php
+msgid "Footer: Policy Links"
+msgstr ""
+
+#: functions.php
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php
+msgid "Appears on the shop page beside products."
+msgstr ""
+
+#: functions.php
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php
+msgid "Optional widgets above the footer columns."
+msgstr ""
+
+#: functions.php
+msgid "Breadcrumb"
+msgstr ""
+
+#: functions.php
+msgid "Home"
+msgstr ""
+
+#: functions.php
+msgid "Add to wishlist"
+msgstr ""
+
+#: functions.php
+msgid "Items in cart"
+msgstr ""
+
+#: functions.php
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: functions.php
+#, php-format
+msgid "Thank you! Your 10% code is on its way to %s."
+msgstr ""
+
+#: header.php footer.php
+msgid "Lady"
+msgstr ""
+
+#: header.php footer.php
+msgid "Corrections"
+msgstr ""
+
+#: header.php
+msgid "Skip to content"
+msgstr ""
+
+#: header.php
+msgid "Announcement"
+msgstr ""
+
+#: header.php
+msgid "Dismiss announcement"
+msgstr ""
+
+#: header.php
+msgid "Open menu"
+msgstr ""
+
+#: header.php
+msgid "Close menu"
+msgstr ""
+
+#: header.php
+msgid "Mobile menu"
+msgstr ""
+
+#: header.php
+msgid "Mobile navigation"
+msgstr ""
+
+#: header.php
+msgid "Search"
+msgstr ""
+
+#: header.php
+msgid "Close search"
+msgstr ""
+
+#: header.php
+msgid "Site search"
+msgstr ""
+
+#: header.php
+msgid "Primary menu"
+msgstr ""
+
+#: header.php
+msgid "Primary menu"
+msgstr ""
+
+#: header.php
+msgid "My account"
+msgstr ""
+
+#: header.php
+msgid "View cart"
+msgstr ""
+
+#: header.php
+msgid "My Account"
+msgstr ""
+
+#: header.php
+msgid "Shop"
+msgstr ""
+
+#: header.php
+msgid "Blog"
+msgstr ""
+
+#: footer.php
+msgid "Social media"
+msgstr ""
+
+#: footer.php
+msgid "Help"
+msgstr ""
+
+#: footer.php
+msgid "Policies"
+msgstr ""
+
+#: footer.php
+msgid "Accepted payment methods"
+msgstr ""
+
+#: footer.php
+msgid "Cash on Delivery"
+msgstr ""
+
+#: footer.php
+msgid "Cash"
+msgstr ""
+
+#: footer.php
+msgid "Bank Transfer"
+msgstr ""
+
+#: front-page.php
+msgid "Featured"
+msgstr ""
+
+#: front-page.php
+msgid "Cosmetics collection"
+msgstr ""
+
+#: front-page.php
+msgid "100% authentic products"
+msgstr ""
+
+#: front-page.php
+msgid "Cash on delivery"
+msgstr ""
+
+#: front-page.php
+msgid "Why shop with us"
+msgstr ""
+
+#: front-page.php
+msgid "Fast delivery"
+msgstr ""
+
+#: front-page.php
+msgid "Across all of Iraq"
+msgstr ""
+
+#: front-page.php
+msgid "Pay when it arrives"
+msgstr ""
+
+#: front-page.php
+msgid "100% authentic"
+msgstr ""
+
+#: front-page.php
+msgid "Original brands only"
+msgstr ""
+
+#: front-page.php
+msgid "Easy returns"
+msgstr ""
+
+#: front-page.php
+msgid "7-day return policy"
+msgstr ""
+
+#: front-page.php
+msgid "Shop by category"
+msgstr ""
+
+#: front-page.php
+msgid "Categories"
+msgstr ""
+
+#: front-page.php
+msgid "Find exactly what your routine needs."
+msgstr ""
+
+#: front-page.php
+msgid "%d product"
+msgid_plural "%d products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: front-page.php
+msgid "Loved by customers"
+msgstr ""
+
+#: front-page.php
+msgid "Best sellers"
+msgstr ""
+
+#: front-page.php
+msgid "The products everyone keeps reordering."
+msgstr ""
+
+#: front-page.php
+msgid "View all products"
+msgstr ""
+
+#: front-page.php
+msgid "Flash deals"
+msgstr ""
+
+#: front-page.php
+msgid "Time left"
+msgstr ""
+
+#: front-page.php
+msgid "Days"
+msgstr ""
+
+#: front-page.php
+msgid "Hours"
+msgstr ""
+
+#: front-page.php
+msgid "Mins"
+msgstr ""
+
+#: front-page.php
+msgid "Secs"
+msgstr ""
+
+#: front-page.php
+msgid "Shop the deals"
+msgstr ""
+
+#: front-page.php
+msgid "Promotions"
+msgstr ""
+
+#: front-page.php
+msgid "Shop now"
+msgstr ""
+
+#: front-page.php
+msgid "Our story"
+msgstr ""
+
+#: front-page.php
+msgid "Curated authentic brands"
+msgstr ""
+
+#: front-page.php
+msgid "Fair, honest pricing in IQD"
+msgstr ""
+
+#: front-page.php
+msgid "Support in English and Arabic"
+msgstr ""
+
+#: front-page.php
+msgid "Start shopping"
+msgstr ""
+
+#: front-page.php
+msgid "Testimonials"
+msgstr ""
+
+#: front-page.php
+msgid "Reviews"
+msgstr ""
+
+#: front-page.php
+msgid "What our customers say"
+msgstr ""
+
+#: front-page.php
+msgid "Rated 5 out of 5"
+msgstr ""
+
+#: front-page.php
+msgid "Newsletter"
+msgstr ""
+
+#: front-page.php
+msgid "Get 10% off your first order"
+msgstr ""
+
+#: front-page.php
+msgid "Join our newsletter for new arrivals, beauty tips and exclusive deals."
+msgstr ""
+
+#: front-page.php
+msgid "Email address"
+msgstr ""
+
+#: front-page.php
+msgid "Your email address"
+msgstr ""
+
+#: front-page.php
+msgid "Subscribe"
+msgstr ""
+
+#: index.php
+msgid "Journal"
+msgstr ""
+
+#: index.php
+msgid "Beauty tips, routines and new arrivals."
+msgstr ""
+
+#: index.php archive.php search.php
+msgid "Posts navigation"
+msgstr ""
+
+#: index.php archive.php search.php
+msgid "Prev"
+msgstr ""
+
+#: index.php archive.php search.php
+msgid "Next"
+msgstr ""
+
+#: index.php
+msgid "Nothing here yet"
+msgstr ""
+
+#: index.php
+msgid "Check back soon for new stories."
+msgstr ""
+
+#: single.php
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: single.php
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: single.php page.php
+msgid "Pages:"
+msgstr ""
+
+#: single.php
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content-card.php
+msgid "Read more"
+msgstr ""
+
+#: archive.php
+msgid "Nothing found"
+msgstr ""
+
+#: archive.php
+msgid "Try a different search or browse the shop."
+msgstr ""
+
+#: search.php
+#, php-format
+msgid "Results for \"%s\""
+msgstr ""
+
+#: search.php
+msgid "No results found"
+msgstr ""
+
+#: search.php
+msgid "Try different keywords or browse the shop instead."
+msgstr ""
+
+#: 404.php
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php
+msgid "The page you are looking for may have been moved or no longer exists. Try searching, or head back home."
+msgstr ""
+
+#: 404.php
+msgid "Back to home"
+msgstr ""
+
+#: comments.php
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php
+msgid "Older comments"
+msgstr ""
+
+#: comments.php
+msgid "Newer comments"
+msgstr ""
+
+#: comments.php
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php
+msgid "Post comment"
+msgstr ""
+
+#: comments.php
+msgid "Comment"
+msgstr ""
+
+#: woocommerce.php
+msgid "Shop sidebar"
+msgstr ""
+
+#: inc/customizer.php
+msgid "LadyCorrections"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Brand Colors"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Primary color (buttons, accents)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Berry color (footer, dark sections)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Announcement Bar"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Show announcement bar"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Announcement text"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Free delivery on orders over 50,000 IQD — use code WELCOME10 for 10% off"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/customizer.php
+#, php-format
+msgid "Show: %s"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hero"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Trust badges"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Flash Deals"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Enable flash deals banner"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Promo banners"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Brand story"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hero badge text"
+msgstr ""
+
+#: inc/customizer.php
+msgid "New collection 2026"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hero heading"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Beauty that feels <span class=\"hl\">made for you</span>"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hero subtext"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Premium skincare, makeup and fragrance — curated for her, delivered across Iraq with cash on delivery."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Primary button text"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Shop Now"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Primary button link"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Secondary button text"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Explore Categories"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Secondary button link"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Hero image"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Subtext"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Up to 50% off selected bestsellers. Hurry — when the timer ends, so do the deals."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Deal end date & time"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Format: YYYY-MM-DDTHH:MM, e.g. 2026-12-31T23:59"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Button link (shop page)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Promo Banners"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Skincare Essentials"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Makeup Must-Haves"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Glow routines from 15,000 IQD"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Bestselling shades back in stock"
+msgstr ""
+
+#: inc/customizer.php
+#, php-format
+msgid "Banner %d title"
+msgstr ""
+
+#: inc/customizer.php
+#, php-format
+msgid "Banner %d text"
+msgstr ""
+
+#: inc/customizer.php
+#, php-format
+msgid "Banner %d link"
+msgstr ""
+
+#: inc/customizer.php
+#, php-format
+msgid "Banner %d image"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Brand Story"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Kicker"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Made for her, with love in every detail"
+msgstr ""
+
+#: inc/customizer.php
+msgid "LadyCorrections curates premium beauty essentials — authentic products, fair prices, and delivery you can trust, anywhere in Iraq."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Story image"
+msgstr ""
+
+#: inc/customizer.php
+msgid "The quality is amazing and delivery was so fast. My go-to beauty store now!"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Sara A."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Baghdad"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Original products at fair prices. Cash on delivery makes it so easy."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Noor H."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Erbil"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Beautiful packaging and lovely shades. I keep coming back for more."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Lina M."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Basra"
+msgstr ""
+
+#: inc/customizer.php
+#, php-format
+msgid "Testimonial %d text"
+msgstr ""
+
+#: inc/customizer.php
+#, php-format
+msgid "Testimonial %d name"
+msgstr ""
+
+#: inc/customizer.php
+#, php-format
+msgid "Testimonial %d location"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Brand blurb"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Premium beauty essentials for her — authentic products, fair prices, delivered across Iraq."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php
+#, php-format
+msgid "© %1$s %2$s. All rights reserved."
+msgstr ""
+
+#: front-page.php inc/customizer.php
+msgid "Trust marquee strip"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Show: Trust marquee strip"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Trust Marquee"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Marquee items"
+msgstr ""
+
+#: inc/customizer.php
+msgid "One item per line. Leave empty to use the defaults."
+msgstr ""
+
+#: front-page.php
+msgid "100% Authentic Products"
+msgstr ""
+
+#: front-page.php
+msgid "Cash on Delivery"
+msgstr ""
+
+#: front-page.php
+msgid "Fast Delivery Across Iraq"
+msgstr ""
+
+#: front-page.php
+msgid "Easy 7-Day Returns"
+msgstr ""
+
+#: front-page.php
+msgid "New Arrivals Every Week"
+msgstr ""
+
+#: front-page.php
+msgid "Store benefits"
+msgstr ""
+
+#: front-page.php
+msgid "Beauty that feels <span class=\"hl\">made for you</span>"
+msgstr ""
+
+#: front-page.php
+msgid "Premium skincare, makeup and fragrance — curated for her, delivered across Iraq with cash on delivery."
+msgstr ""
+
+#: front-page.php
+msgid "New collection 2026"
+msgstr ""
+
+#: front-page.php
+msgid "Shop Now"
+msgstr ""
+
+#: front-page.php
+msgid "Explore Categories"
+msgstr ""
+
+#: front-page.php
+msgid "Average rating"
+msgstr ""
+
+#: front-page.php
+msgid "10k+"
+msgstr ""
+
+#: front-page.php
+msgid "Happy customers"
+msgstr ""
+
+#: front-page.php
+msgid "100%"
+msgstr ""
+
+#: front-page.php
+msgid "Authentic products"
+msgstr ""
+
+#: front-page.php
+msgid "Featured"
+msgstr ""
+
+#: front-page.php
+msgid "LadyCorrections"
+msgstr ""
+
+#: front-page.php
+msgid "-30%"
+msgstr ""
+
+#: front-page.php
+msgid "Mega Sale live now"
+msgstr ""
+
+#: front-page.php
+msgid "4.9 / 5"
+msgstr ""
+
+#: front-page.php
+msgid "2,400+ reviews"
+msgstr ""
+
+#: front-page.php
+msgid "Free Delivery"
+msgstr ""
+
+#: front-page.php
+msgid "Across Iraq"
+msgstr ""
+
+#: front-page.php
+msgid "Shop by <span class=\"hl\">category</span>"
+msgstr ""
+
+#: front-page.php
+msgid "Find exactly what your routine needs."
+msgstr ""
+
+#: front-page.php
+msgid "Limited time"
+msgstr ""
+
+#: front-page.php
+msgid "Flash <span class=\"hl\">Deals</span>"
+msgstr ""
+
+#: front-page.php
+msgid "Up to 50% off selected bestsellers. Hurry — when the timer ends, so do the deals."
+msgstr ""
+
+#: front-page.php
+msgid "Shop the deals"
+msgstr ""
+
+#: front-page.php
+msgid "Best <span class=\"hl\">sellers</span>"
+msgstr ""
+
+#: front-page.php
+msgid "The products everyone keeps reordering."
+msgstr ""
+
+#: front-page.php
+msgid "Loved by customers"
+msgstr ""
+
+#: front-page.php
+msgid "View all products"
+msgstr ""
+
+#: front-page.php
+msgid "Bestseller"
+msgstr ""
+
+#: front-page.php
+msgid "New In"
+msgstr ""
+
+#: front-page.php
+msgid "Skincare Essentials"
+msgstr ""
+
+#: front-page.php
+msgid "Makeup Must-Haves"
+msgstr ""
+
+#: front-page.php
+msgid "Glow routines from 15,000 IQD"
+msgstr ""
+
+#: front-page.php
+msgid "Bestselling shades back in stock"
+msgstr ""
+
+#: front-page.php
+msgid "Shop now"
+msgstr ""
+
+#: front-page.php
+msgid "Promotions"
+msgstr ""
+
+#: front-page.php
+msgid "Our story"
+msgstr ""
+
+#: front-page.php
+msgid "Made for her, with <span class=\"hl\">love</span> in every detail"
+msgstr ""
+
+#: front-page.php
+msgid "LadyCorrections curates premium beauty essentials — authentic products, fair prices, and delivery you can trust, anywhere in Iraq."
+msgstr ""
+
+#: front-page.php
+msgid "Our story"
+msgstr ""
+
+#: front-page.php
+msgid "Curated authentic brands"
+msgstr ""
+
+#: front-page.php
+msgid "Fair, honest pricing in IQD"
+msgstr ""
+
+#: front-page.php
+msgid "Support in English and Arabic"
+msgstr ""
+
+#: front-page.php
+msgid "Start shopping"
+msgstr ""
+
+#: front-page.php
+msgid "happy customers across Iraq"
+msgstr ""
+
+#: front-page.php
+msgid "Reviews"
+msgstr ""
+
+#: front-page.php
+msgid "What our <span class=\"hl\">customers</span> say"
+msgstr ""
+
+#: front-page.php
+msgid "Rated 5 out of 5"
+msgstr ""
+
+#: front-page.php
+msgid "Get 10% off your first order"
+msgstr ""
+
+#: front-page.php
+msgid "Join our newsletter for new arrivals, beauty tips and exclusive deals."
+msgstr ""
+
+#: front-page.php
+msgid "Your email address"
+msgstr ""
+
+#: front-page.php
+msgid "Subscribe"
+msgstr ""
+
+#: front-page.php
+msgid "Newsletter"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Stat 1 label (under 4.9/5)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Stat 2 number"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Stat 2 label"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Stat 3 number"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Stat 3 label"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Sale card number"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Sale card label"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Rating card number"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Rating card label"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Delivery card title"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Delivery card label"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Story image (main)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Story image (layered, smaller)"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Optional second image stacked over the main one."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Badge number"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Shown as \"<number>k+\", e.g. 10 becomes 10k+."
+msgstr ""
+
+#: inc/customizer.php
+msgid "Badge label"
+msgstr ""
+
+#: inc/customizer.php
+msgid "Banner %d tag pill"
+msgstr ""
+
+#: functions.php
+msgid "Quick view"
+msgstr ""
+
+#: functions.php
+msgid "View full details"
+msgstr ""
+
+#: functions.php
+#, php-format
+msgid "%1$s out of 5 (%2$d reviews)"
+msgstr ""
+
+#: functions.php
+msgid "Not rated yet"
+msgstr ""
+
+#: footer.php
+msgid "Close quick view"
+msgstr ""
+
+#: inc/customizer.php
+#: inc/shop-filters.php
+#: template-parts/shop-toolbar.php
+msgid "%d products"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "100% Authentic"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "120+"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "18"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "4.9"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "404 page: button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "404 page: heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "404 page: text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "A slim bar above the header — perfect for sales, coupon codes and delivery notes."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: CTA button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: CTA heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: CTA text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: page title"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: stat 1 label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: stat 1 number"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: stat 2 label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: stat 2 number"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: stat 3 label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: stat 3 number"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: stat 4 label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: stat 4 number"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: subtitle"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: value 1 text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: value 1 title"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: value 2 text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: value 2 title"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: value 3 text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: value 3 title"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: value 4 text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "About: value 4 title"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Absolutely. We source directly from authorized distributors, and every product is guaranteed authentic."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-contact.php
+msgid "Address"
+msgstr ""
+
+
+#: inc/customizer.php
+#: template-parts/shop-toolbar.php
+msgid "All"
+msgstr ""
+
+
+#: inc/customizer.php
+#: template-parts/shop-toolbar.php
+msgid "Apply"
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Apply filters"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Are your products 100% original?"
+msgstr ""
+
+
+#: footer.php
+msgid "Back to top"
+msgstr ""
+
+
+#: functions.php
+msgid "Berry"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Best sellers: button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Best sellers: heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Best sellers: kicker"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Best sellers: subtext"
+msgstr ""
+
+
+#: functions.php
+msgid "Blush"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Brand story: button"
+msgstr ""
+
+
+#: page-wishlist.php
+msgid "Browse Products"
+msgstr ""
+
+
+#: page-contact.php
+msgid "Call"
+msgstr ""
+
+
+#: woocommerce/cart/cart.php
+msgid "Cart items"
+msgstr ""
+
+
+#: woocommerce/cart/cart.php
+msgid "Cart summary"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Cart: continue shopping link"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Cart: empty button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Cart: empty heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Cart: empty text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Cart: trust line"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Cash on Delivery and bank transfer. Card payments are coming soon."
+msgstr ""
+
+
+#: inc/customizer.php
+#: woocommerce/checkout/form-checkout.php
+msgid "Cash on Delivery available across Iraq"
+msgstr ""
+
+
+#: inc/customizer.php
+#: woocommerce/cart/cart.php
+msgid "Cash on Delivery available • 100% authentic • Easy 7-day returns"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Cash on delivery, brought to your door across Iraq."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Categories: heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Categories: kicker"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Categories: subtext"
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Category"
+msgstr ""
+
+
+#: header.php
+#: inc/customizer.php
+msgid "Chat on WhatsApp"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Checkout: heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Checkout: trust line"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-wishlist.php
+msgid "Clear all"
+msgstr ""
+
+
+#: inc/customizer.php
+#: inc/shop-filters.php
+#: template-parts/shop-toolbar.php
+msgid "Clear all filters"
+msgstr ""
+
+
+#: inc/customizer.php
+#: template-parts/shop-toolbar.php
+msgid "Close filters"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Column heading: Help"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Column heading: Policies"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Column heading: Shop"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-contact.php
+#: page-faq.php
+msgid "Contact Us"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact form: email label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact form: error message"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact form: message label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact form: name label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact form: send button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact form: success message"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: FAQ teaser button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: FAQ teaser text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: WhatsApp button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: address"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: address label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: email address"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: email label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: form shortcode"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: hours"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: hours label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: phone label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: phone number"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Contact: subtext"
+msgstr ""
+
+
+#: inc/customizer.php
+#: woocommerce/cart/cart.php
+msgid "Continue shopping"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Country code + number, digits only, no +. Example: 9647700000000. Shows a WhatsApp chat button in the mobile menu and footer."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Currently we deliver within Iraq only."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Customer reviews shown on the homepage."
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Default"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Design and content for your whole store — colors, homepage sections, texts and footer. Everything here updates the live preview instantly."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Discover Products"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Discover the bestsellers everyone keeps reordering."
+msgstr ""
+
+
+#: page-about.php
+msgid "Discover the brand behind your favorite beauty essentials."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Do you offer Cash on Delivery?"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Do you ship outside Iraq?"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Drawer: WhatsApp button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Drawer: categories heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Drawer: menu heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Drawer: my account label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Drawer: search placeholder"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Drawer: wishlist label"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-contact.php
+msgid "Email"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Enter your code in the coupon field on the cart page and click Apply."
+msgstr ""
+
+
+#: page-track.php
+msgid "Enter your order ID and billing email to see the latest status."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Enter your order ID and the billing email used at checkout."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Every heading, button label and message on the site. Change any text here — no code needed."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Everything you need to know about ordering with us."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 1: answer"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 1: question"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 2: answer"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 2: question"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 3: answer"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 3: question"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 4: answer"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 4: question"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 5: answer"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 5: question"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 6: answer"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 6: question"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 7: answer"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 7: question"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 8: answer"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ 8: question"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ: bottom CTA button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ: bottom CTA text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ: heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ: no-results text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ: search placeholder"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "FAQ: subtext"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Fair Prices"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Fast COD Delivery"
+msgstr ""
+
+
+#: inc/customizer.php
+#: template-parts/shop-toolbar.php
+msgid "Filters"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Flash deals: button"
+msgstr ""
+
+
+#: footer.php
+#: inc/customizer.php
+msgid "Follow us"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Footer columns, payment badges, contact options and copyright."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Frequently Asked Questions"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Get in Touch"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Getting Started"
+msgstr ""
+
+
+#: functions.php
+msgid "Gold"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Governorates served"
+msgstr ""
+
+
+#: header.php
+msgid "Hello LadyCorrections"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Honest pricing in IQD with no hidden markups."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "How can I track my order?"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "How do I use a coupon code?"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "How long does delivery take?"
+msgstr ""
+
+
+#: inc/customizer.php
+#: inc/shop-filters.php
+#: template-parts/shop-toolbar.php
+msgid "In stock"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Info: \"last updated\" label"
+msgstr ""
+
+
+#: functions.php
+msgid "Ink"
+msgstr ""
+
+
+#: page-about.php
+msgid "Join thousands of happy customers across Iraq — shop our most loved picks."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-info.php
+msgid "Last updated"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Limited-time deals banner with a live countdown timer."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-contact.php
+msgid "Looking for quick answers?"
+msgstr ""
+
+
+#: inc/customizer.php
+#: woocommerce/cart/cart-empty.php
+msgid "Looks like you haven't added anything yet — let's fix that."
+msgstr ""
+
+
+#: inc/customizer.php
+#: template-parts/shop-toolbar.php
+msgid "Max"
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Maximum price"
+msgstr ""
+
+
+#: header.php
+#: inc/customizer.php
+msgid "Menu"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Message"
+msgstr ""
+
+
+#: inc/customizer.php
+#: template-parts/shop-toolbar.php
+msgid "Min"
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Minimum price"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-wishlist.php
+msgid "My Wishlist"
+msgstr ""
+
+
+#: page-contact.php
+msgid "New contact message from %s"
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Newest"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Newsletter: button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Newsletter: email placeholder"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Newsletter: heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Newsletter: text"
+msgstr ""
+
+
+#: inc/customizer.php
+#: inc/shop-filters.php
+msgid "No products found"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "No questions match your search."
+msgstr ""
+
+
+#: inc/customizer.php
+#: inc/shop-filters.php
+#: template-parts/shop-toolbar.php
+msgid "On sale"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "One item per line."
+msgstr ""
+
+
+#: woocommerce/checkout/thankyou.php
+msgid "Order %s"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-contact.php
+msgid "Order on WhatsApp"
+msgstr ""
+
+
+#: woocommerce/checkout/form-checkout.php
+msgid "Order summary"
+msgstr ""
+
+
+#: page-track.php
+msgid "Order tracking requires WooCommerce to be installed and active."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Orders are delivered within 2–4 business days across Iraq. Baghdad orders often arrive in 1–2 days."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Original brands only, sourced directly from authorized distributors."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Our Story"
+msgstr ""
+
+
+#: woocommerce/checkout/thankyou.php
+msgid "Pay in cash when your order arrives"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Payment badge 1"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Payment badge 2"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Payment badge 3"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-contact.php
+msgid "Phone / WhatsApp"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Please fill in all fields correctly."
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Popularity"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Premium beauty, curated for her — and delivered across Iraq."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Premium products"
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Price"
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Price: high to low"
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Price: low to high"
+msgstr ""
+
+
+#: functions.php
+msgid "Primary Pink"
+msgstr ""
+
+
+#: inc/shop-filters.php
+msgid "Products pagination"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Promo banners: button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Questions about an order or a product? We reply fast."
+msgstr ""
+
+
+#: page-contact.php
+msgid "Questions about an order, a product, or anything else? We'd love to hear from you."
+msgstr ""
+
+
+#: page-faq.php
+msgid "Quick answers to the questions we hear most."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Quick view: details button"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Ready to glow?"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Real humans, in your language, always here to help."
+msgstr ""
+
+
+#: page-info.php
+msgid "Related pages"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-wishlist.php
+msgid "Remove"
+msgstr ""
+
+
+#: inc/shop-filters.php
+msgid "Remove filter: %s"
+msgstr ""
+
+
+#: functions.php
+msgid "Rose"
+msgstr ""
+
+
+#: functions.php
+msgid "Rose Light"
+msgstr ""
+
+
+#: template-parts/shop-toolbar.php
+msgid "Search products"
+msgstr ""
+
+
+#: header.php
+#: inc/customizer.php
+#: template-parts/shop-toolbar.php
+msgid "Search products…"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Search questions…"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Search: no-results heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Search: no-results text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Section heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Section kicker"
+msgstr ""
+
+
+#: inc/customizer.php
+#: woocommerce/checkout/form-checkout.php
+msgid "Secure Checkout"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-contact.php
+msgid "Send Message"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Shop Bestsellers"
+msgstr ""
+
+
+#: header.php
+#: inc/customizer.php
+msgid "Shop by Category"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: \"all categories\" pill"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: \"show N products\" button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: apply button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: clear-all button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: close filters (mobile)"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: empty heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: empty text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: filters title"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: in-stock toggle"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: max price label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: min price label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: on-sale toggle"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: result count text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Shop: sort label"
+msgstr ""
+
+
+#: inc/customizer.php
+#: inc/shop-filters.php
+#: template-parts/shop-toolbar.php
+msgid "Show %d products"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Site Texts & Buttons"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Social row heading"
+msgstr ""
+
+
+#: page-contact.php
+msgid "Something went wrong. Please try again or contact us on WhatsApp."
+msgstr ""
+
+
+#: inc/customizer.php
+#: template-parts/shop-toolbar.php
+msgid "Sort by"
+msgstr ""
+
+
+#: inc/customizer.php
+#: woocommerce/cart/cart-empty.php
+#: woocommerce/cart/cart.php
+msgid "Start Shopping"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Still have questions?"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-about.php
+msgid "Support in EN/AR"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-wishlist.php
+msgid "Tap the heart on any product to save it here for later."
+msgstr ""
+
+
+#: inc/customizer.php
+#: woocommerce/checkout/thankyou.php
+msgid "Thank you for your order!"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Thank you! Your message has been sent — we'll reply soon."
+msgstr ""
+
+
+#: page-contact.php
+msgid "Thank you! Your message has been sent. We'll reply soon."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Thank-you: heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Thank-you: text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "The big banner at the top of the homepage — headline, buttons, image and floating cards."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "The scrolling benefits strip under the hero. One item per line."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "The “about the brand” split section with layered images."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-track.php
+msgid "Track Your Order"
+msgstr ""
+
+
+#: woocommerce/checkout/thankyou.php
+msgid "Track your order anytime from your account"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Track: heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Track: subtext"
+msgstr ""
+
+
+#: inc/shop-filters.php
+msgid "Try adjusting your filters or search to find what you are looking for."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Try adjusting your filters or search."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Turn homepage sections on or off. The content of each section lives in its own section below."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Two promotional banners on the homepage."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Upload your own banner. If empty, the theme shows its built-in premium banner image."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Use %d where the number goes."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Use the Track Order page with your order ID and billing email, or message us on WhatsApp anytime."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-contact.php
+msgid "Visit the FAQ"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Welcome! Set up your store in 5 steps:%s1. Install WooCommerce — Plugins → Add New → search “WooCommerce” → Install & Activate.%s2. Install Elementor — same way, for drag & drop page design.%s3. Create menus — Appearance → Menus, then assign them to the Primary, Mobile Drawer and Footer locations.%s4. Set your hero — open the Hero section below to change the image, headline and buttons.%s5. Add products — WooCommerce → Products → Add New (or Products → Import).%sEverything visual on the site is controlled from the sections below — no code needed."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "What is your return policy?"
+msgstr ""
+
+
+#: page-contact.php
+msgid "WhatsApp"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "WhatsApp number"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Which payment methods do you accept?"
+msgstr ""
+
+
+#: header.php
+#: inc/customizer.php
+msgid "Wishlist"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Wishlist: clear-all button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Wishlist: empty button"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Wishlist: empty heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Wishlist: empty text"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Wishlist: heading"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Wishlist: remove label"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Wishlist: subtext"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-contact.php
+msgid "Working Hours"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "Yes! Pay in cash when your order arrives — no advance payment needed."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-faq.php
+msgid "You have 7 days from delivery to return unused products in their original packaging for a full refund."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Your brand palette. These two colors recolor buttons, gradients, the footer and dark sections across the whole site."
+msgstr ""
+
+
+#: inc/customizer.php
+#: woocommerce/cart/cart-empty.php
+#: woocommerce/cart/cart.php
+msgid "Your cart is empty"
+msgstr ""
+
+
+#: page-contact.php
+msgid "Your message"
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-contact.php
+msgid "Your name"
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Your order has been received and is being prepared. We'll contact you soon to confirm delivery."
+msgstr ""
+
+
+#: inc/customizer.php
+msgid "Your saved favorites — ready when you are."
+msgstr ""
+
+
+#: page-wishlist.php
+msgid "Your saved favorites, ready when you are."
+msgstr ""
+
+
+#: inc/customizer.php
+#: page-wishlist.php
+msgid "Your wishlist is empty"
+msgstr ""
+

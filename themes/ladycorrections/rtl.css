@@ -1,0 +1,196 @@
+/*
+Theme Name: LadyCorrections
+Description: RTL overrides. Most layout mirroring uses CSS logical properties
+(inline-start/inline-end) and [dir] selectors in style.css; this file holds
+the remaining right-to-left adjustments. Loaded automatically when is_rtl().
+*/
+
+/* Base: rely on dir=rtl, but enforce alignment where LTR defaults leak. */
+body {
+  text-align: right;
+  letter-spacing: 0;
+}
+.lc-section-head,
+.lc-text-center,
+.lc-pagehead,
+.lc-404,
+.lc-nothing,
+.lc-news__box {
+  text-align: center;
+}
+
+/* Lists keep markers on the correct side. */
+.lc-entry ul,
+.lc-entry ol {
+  padding-right: 1.4em;
+  padding-left: 0;
+}
+.comment-list .children {
+  padding-right: 28px;
+  padding-left: 0;
+}
+
+/* Drawer slides from the RIGHT in LTR / LEFT in RTL (v2.1) — shadow follows the panel edge. */
+[dir="rtl"] .lc-drawer {
+  box-shadow: 12px 0 40px rgba(74, 7, 30, 0.16);
+}
+
+/* Countdown + header icons are flex (direction-aware); nudge numeric cells. */
+.lc-countdown__cell b {
+  direction: ltr;
+  unicode-bidi: embed;
+}
+
+/* Blockquote accent bar uses logical property in style.css; reinforce. */
+.lc-entry blockquote {
+  border-right: 4px solid var(--lc-primary);
+  border-left: 0;
+  border-radius: 14px 0 0 14px;
+}
+
+/* Notices accent side. */
+.woocommerce-message { border-right: 4px solid #22c55e; border-left: 0; }
+.woocommerce-info { border-right: 4px solid var(--lc-primary); border-left: 0; }
+.woocommerce-error { border-right: 4px solid #ef4444; border-left: 0; }
+
+/* Breadcrumb + pagination arrows flip naturally with dir; keep spacing. */
+.lc-breadcrumbs span[aria-hidden="true"] {
+  display: inline-block;
+  transform: scaleX(-1);
+}
+
+/* Product card badge positions (belt & braces alongside [dir] rules). */
+.woocommerce span.onsale {
+  right: 12px;
+  left: auto;
+}
+.lc-wishlist-btn {
+  left: 10px;
+  right: auto;
+}
+
+/* Trust badge icon order stays icon-then-text in RTL. */
+.lc-trust__item,
+.lc-story__points li,
+.lc-testi__who {
+  flex-direction: row;
+}
+
+/* Footer bottom row: keep badges after copyright in RTL reading order. */
+.lc-footer__bottom {
+  direction: rtl;
+}
+
+/* ============================================================
+   v2.0.0 RTL additions — premium 3D layouts
+   ============================================================ */
+
+/* Gradient headline spans may wrap in Arabic (avoid overflow). */
+html[lang^="ar"] .lc-hero h1 .hl,
+html[lang^="ar"] .lc-section-head h2 .hl {
+  white-space: normal;
+}
+
+/* Flip directional arrows in RTL reading order. */
+[dir="rtl"] .lc-cat-card__arrow,
+[dir="rtl"] .lc-hero__ctas .lc-btn > span[aria-hidden="true"],
+[dir="rtl"] .lc-flash .lc-btn > span[aria-hidden="true"],
+[dir="rtl"] .lc-story__inner .lc-btn > span[aria-hidden="true"],
+[dir="rtl"] .lc-text-center .lc-btn > span[aria-hidden="true"] {
+  display: inline-block;
+  transform: scaleX(-1);
+}
+
+/* Hero fallback monogram + chip stay centered in RTL. */
+.lc-hero__fallback .fb-mono {
+  left: 50%;
+  right: auto;
+}
+
+/* Marquee dots keep spacing in RTL. */
+.lc-marquee__item {
+  flex-direction: row;
+}
+
+/* Story stacked images already use logical props; nudge badge side. */
+.lc-story__badge {
+  flex-direction: row;
+}
+
+/* Testimonial quote mark side (belt & braces). */
+.lc-testi::before {
+  right: 22px;
+  left: auto;
+}
+
+/* Quick view modal close side (belt & braces). */
+.lc-qv__close {
+  left: 14px;
+  right: auto;
+}
+
+/* Newsletter pill form keeps input/button order in RTL. */
+.lc-news__form {
+  flex-direction: row;
+}
+
+/* Hero stats row reads right-to-left naturally. */
+.lc-hero__stats,
+.lc-hero__stat {
+  flex-direction: row;
+}
+
+/* ============================================================
+   v2.1.0 RTL additions
+   ============================================================ */
+
+/* Shop filter toolbar: pills, chips and mobile drawer mirror. */
+[dir="rtl"] .lc-shop-filters {
+  box-shadow: 12px 0 40px rgba(74, 7, 30, 0.16);
+}
+.lc-active-chips,
+.lc-shop-filters__row {
+  flex-direction: row;
+}
+[dir="rtl"] .lc-filters-open .lc-filters-count {
+  left: 6px;
+  right: auto;
+}
+
+/* Cart / checkout: card grids mirror naturally; nudge stepper + remove. */
+[dir="rtl"] .lc-cart-item__remove {
+  left: 12px;
+  right: auto;
+}
+[dir="rtl"] .lc-cart-summary,
+[dir="rtl"] .lc-co-summary {
+  text-align: right;
+}
+.lc-cart-trust,
+.lc-co-trust {
+  flex-direction: row;
+}
+
+/* Page templates: stats, values, info cards, FAQ accordion. */
+.lc-stats,
+.lc-values,
+.lc-info-cards,
+.lc-faq-search {
+  flex-direction: row;
+}
+[dir="rtl"] .lc-faq-item__icon {
+  left: 20px;
+  right: auto;
+}
+.lc-richtext {
+  text-align: right;
+}
+.lc-richtext ul,
+.lc-richtext ol {
+  padding-right: 1.4em;
+  padding-left: 0;
+}
+[dir="rtl"] .lc-wish-remove {
+  left: 10px;
+  right: auto;
+}
